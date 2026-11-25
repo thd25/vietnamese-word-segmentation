@@ -195,7 +195,7 @@ Nhóm tập trung phân tích các trường hợp:
 - Từ mới, từ lóng và OOV.
 - Dấu câu và các mẫu văn bản đặc biệt.
 
-Kết quả sẽ được trình bày bằng bảng thống kê, biểu đồ và ví dụ thực tế.
+Kết quả sẽ được trình bày bằng bảng thống kê, biểu đồ, và ví dụ thực tế.
 
 ---
 
